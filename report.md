@@ -7,7 +7,7 @@
 На тестирование затрачено: 0.3 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Irek81/dzjava/issues/2#issue-946881864
+* result is FAIL: Visa [https://github.com/Irek81/dzjava/issues/2]
 * https://github.com/Irek81/dzjava/issues/3#issue-946882567
 * https://github.com/Irek81/dzjava/issues/4#issue-946883354
 * https://github.com/Irek81/dzjava/issues/5#issue-946884139
@@ -28,3 +28,5 @@
 * macOS версия 11.4
 * Java 11.0.11
 * <другое ПО, при необходимости>
+
+[https://github.com/Irek81/dzjava/issues/2]: https://github.com/Irek81/dzjava/issues/2#issue-946881864
